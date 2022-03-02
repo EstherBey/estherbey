@@ -1,7 +1,7 @@
 <h1  align="center"> <a href="https://github.com/estherbey" ><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'am+Tuna;I+like+coding;How+are+you+today?;I'm+pretty+fine"> </a></h1> <br><div align="center"> <a href="https://discord.com/users/914470304179429418" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/914470304179429418?idleMessage=he%20is%20learning%20new%20things..."></a> </div>
 <div align="center">
-<a href="https://github.com/must253" title="Github Account"><img src="https://komarev.com/ghpvc/?username=estherbey"></a>
-<a href="https://github.com/must253?tab=followers" title="Github followers"><img src="https://img.shields.io/github/followers/estherbey.svg?style=social&label=Followers"></a>
+<a href="https://github.com/estherbey" title="Github Account"><img src="https://komarev.com/ghpvc/?username=estherbey"></a>
+<a href="https://github.com/estherbey?tab=followers" title="Github followers"><img src="https://img.shields.io/github/followers/estherbey.svg?style=social&label=Followers"></a>
 </div>
 
 <br>
