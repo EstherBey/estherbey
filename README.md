@@ -17,11 +17,9 @@
 <div class="highlight highlight-source-js position-relative overflow-auto"><pre><span class="pl-k">class</span> <span class="pl-v">Esther</span> <span class="pl-kos">{</span>
     <span class="pl-en">constructor</span><span class="pl-kos">(</span><span class="pl-s1">options</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
         <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">name</span> <span class="pl-c1">=</span> <span class="pl-s">"Mustafa"</span><span class="pl-kos">,</span>
-	<span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">age</span> <span class="pl-c1">=</span> <span class="pl-s">"16"</span><span class="pl-kos">,</span>
+	<span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">age</span> <span class="pl-c1">=</span> <span class="pl-s">"18"</span><span class="pl-kos">,</span>
         <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">sex</span> <span class="pl-c1">=</span> <span class="pl-s">"man"</span><span class="pl-kos">,</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">length</span> <span class="pl-c1">=</span> <span class="pl-s">"181"</span><span class="pl-kos">,</span>
         <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">type</span> <span class="pl-c1">=</span> <span class="pl-s">"human"</span><span class="pl-kos">,</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">weight</span> <span class="pl-c1">=</span> <span class="pl-s">"65"</span><span class="pl-kos">,</span>
         <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">discord</span><span class="pl-kos">.</span><span class="pl-c1">tag</span> <span class="pl-c1">=</span> <span class="pl-s">"' meráda saldı be#9999"</span><span class="pl-kos">,</span>
         <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">instagram</span><span class="pl-kos">.</span><span class="pl-c1">name</span> <span class="pl-c1">=</span> <span class="pl-s">"estherbey"</span> 
     <span class="pl-kos">}</span><span class="pl-kos">;</span>
