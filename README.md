@@ -1,22 +1,36 @@
+<h1  align="center"> <a href="https://github.com/estherbey" ><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'am+Tuna;I+like+coding;How+are+you+today?;I'm+pretty+fine"> </a></h1> <br><div align="center"> <a href="https://discord.com/users/914470304179429418" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/914470304179429418?idleMessage=he%20is%20learning%20new%20things..."></a> </div>
+<div align="center">
+<a href="https://github.com/must253" title="Github Account"><img src="https://komarev.com/ghpvc/?username=estherbey"></a>
+<a href="https://github.com/must253?tab=followers" title="Github followers"><img src="https://img.shields.io/github/followers/estherbey.svg?style=social&label=Followers"></a>
+</div>
 
-<div align="center" dir="auto"><a href="https://github.com/EstherBey"><img width="500" src="https://camo.githubusercontent.com/4e2d0d20919417721268e5f153355fc298bed7134373bb1ff5391a631fee6ea6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d75737432353326636f756e745f707269766174653d74727565267468656d653d7261646963616c" alt="Esther" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=estherbey&amp;count_private=true&amp;theme=radical" style="max-width: 100%;"></a></div>
-<h2 dir="auto"><a id="user-content--️-lets-connect" class="anchor" aria-hidden="true" href="#-️-lets-connect"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><div align="center" dir="auto"> <g-emoji class="g-emoji" alias="raising_hand_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2640.png">🙋&zwj;♀️</g-emoji> Let's Connect</div></h2>
-<p align="center" dir="auto">
-	<a href="mailto:info@estherwise.org"><img src="https://camo.githubusercontent.com/9734318df1bd17dac8b2a6b4f88684ced60f41394aa38df3c72a0510af8b69a6/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f676d61696c2e706e67" alt="Gmail" data-canonical-src="https://img.icons8.com/bubbles/50/000000/gmail.png" style="max-width: 100%;"></a>
-	<a href="https://github.com/EstherBey"><img src="https://camo.githubusercontent.com/439d559885a8195d5a91a92f8a72e29767e011b9a15933e26f28a0b551c5706d/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6769746875622e706e67" alt="GitHub" data-canonical-src="https://img.icons8.com/bubbles/50/000000/github.png" style="max-width: 100%;"></a>
-	<a href="https://instagram.com/xest.cf" rel="nofollow"><img src="https://camo.githubusercontent.com/006011b1867986aeca5e91558cb03943899ae9c38546b79ca803424c0a0f6ee4/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f696e7374616772616d2e706e67" alt="Instagram" data-canonical-src="https://img.icons8.com/bubbles/50/000000/instagram.png" style="max-width: 100%;"></a>
-	<a href="https://www.youtube.com/c/EstherWisex" rel="nofollow"><img src="https://camo.githubusercontent.com/88da9ea6b16d699a169878d18020809e6759c31914bfe92647d5b30a254897aa/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f796f75747562652e706e67" alt="Youtube" data-canonical-src="https://img.icons8.com/bubbles/50/000000/youtube.png" style="max-width: 100%;"></a>
+<br>
+<div align="center"><a href="https://github.com/must253" title="EstherWise Github"><img src="https://github-readme-stats.vercel.app/api?username=estherbey&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"></a></div>	 
+<div align="center"><a href="https://github.com/must253"><img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=estherbey&count_private=true&theme=radical" alt="estherbey" /></a></div>
+
+
+## <div align="center"> 🙋‍♀️ Let's Connect</div>
+
+<p align="center">
+	<a href="mailto:info@estherwise.org"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/estherbey"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://instagram.com/xest.cf"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/c/EstherWisex"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
 </p>
-<div class="highlight highlight-source-js position-relative overflow-auto"><pre><span class="pl-k">class</span> <span class="pl-v">Esther</span> <span class="pl-kos">{</span>
-    <span class="pl-en">constructor</span><span class="pl-kos">(</span><span class="pl-s1">options</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">name</span> <span class="pl-c1">=</span> <span class="pl-s">"Mera"</span><span class="pl-kos">,</span>
-	<span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">age</span> <span class="pl-c1">=</span> <span class="pl-s">"18"</span><span class="pl-kos">,</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">sex</span> <span class="pl-c1">=</span> <span class="pl-s">"man"</span><span class="pl-kos">,</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">type</span> <span class="pl-c1">=</span> <span class="pl-s">"human"</span><span class="pl-kos">,</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">discord</span><span class="pl-kos">.</span><span class="pl-c1">tag</span> <span class="pl-c1">=</span> <span class="pl-s">"' meráda saldı be#9999"</span><span class="pl-kos">,</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">instagram</span><span class="pl-kos">.</span><span class="pl-c1">name</span> <span class="pl-c1">=</span> <span class="pl-s">"xest.cf"</span> 
-    <span class="pl-kos">}</span><span class="pl-kos">;</span>
-<span class="pl-kos">}</span>
 
-<span class="pl-smi">module</span><span class="pl-kos">.</span><span class="pl-c1">exports</span> <span class="pl-c1">=</span> <span class="pl-v">Esther</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
- 
+
+```js
+class Mera {
+    constructor(options) {
+        this.name = "Tuna",
+	this.age = "18",
+        this.sex = "man",
+        this.type = "human",
+        this.discord.tag = "' meráda saldı be#9999",
+        this.instagram.name = "xest.cf" 
+    };
+}
+
+module.exports = Mera
+```
